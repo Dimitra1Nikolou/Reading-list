@@ -1,5 +1,5 @@
 # BOOKS TO READ BEFORE YOU DIE
-## Highly recommended :)
+## Not mandatory but highly recommended.
 * Η τρέλα της μέρας, Μορίς Μπλανσό
 * Αποσπάσματα ενός ερωτικού λόγου, Ρολάν Μπαρτ
 * To ημερολόγιο ενός διαφθορέα, Σέρεν Κίρκεγκορ
