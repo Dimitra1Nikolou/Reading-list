@@ -13,3 +13,4 @@
 * Ζωή,οδηγίες χρήσης, Ζωρζ Περέκ
 * Η πανούκλα, Αλμπέρ Καμύ
 * The Daily stoic, Ryan Holiday
+* The Silmarillion, J. R. R. Tolkien
